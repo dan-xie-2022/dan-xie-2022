@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dan-xie-2022
-- 👀 I’m interested in UX and DS
-- 🌱 I’m currently learning how to imploy the DS into the UX research and testing in various ways
-- 💞️ I’m looking to collaborate on topics or issues related to quantitive UX research
+- 👀 I’m interested AI Product development
+- 💞️ I’m looking to collaborate on topics or issues related to commercializing AI products
 - 📫 How to reach me: dan.xie@hec.edu
 
 <!---
