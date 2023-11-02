@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dan-xie-2022
-- 👀 I’m passionate about AI Product development
+- 👀 I’m passionate about quantitative and qualitative research
 - 💞️ I’m looking to collaborate on topics or issues related to commercializing AI products
 - 📫 How to reach me: dan.xie@hec.edu
 
